@@ -1,0 +1,5 @@
+User ID：字符串类型；客户ID
+Gender：字符串类型；性别；有2个值，分别是Male（男性）和Female（女性）
+Age：数值型；年龄
+EstimatedSalary：数值型；预估的客户工资
+Purchased：字符串类型；新车型发布时是否购买；有2个值，分别是0（每购买）和1（购买了）

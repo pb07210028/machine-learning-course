@@ -1,0 +1,16 @@
+1. ID3算法介绍
+https://www.sohu.com/a/162689888_609133
+
+2. 信息增益
+https://www.zhihu.com/question/22104055
+
+3. C4.5
+https://blog.csdn.net/zhihua_oba/article/details/70632622
+
+4. 集成学习介绍
+https://cloud.tencent.com/developer/article/1604304
+
+5. 
+
+
+

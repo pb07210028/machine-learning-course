@@ -1,0 +1,30 @@
+1. 聚类算法评估指标
+https://www.cnblogs.com/liyuewdsgame/p/13270349.html
+https://www.cnblogs.com/liyuewdsgame/p/13270349.html
+
+
+2. 轮廓系数优缺点
+https://zhuanlan.zhihu.com/p/108163834?utm_source=wechat_session
+
+
+
+3. 兰德指数
+https://www.cnblogs.com/alice-wayne/p/7049363.html
+
+
+4. 基于密度的聚类介绍
+https://blog.csdn.net/weixin_41019798/article/details/103476331
+
+5. optics讲解
+https://blog.csdn.net/PRINCE2327/article/details/110412944
+
+
+6. 基于层次的聚类
+https://blog.csdn.net/legendaryhaha/article/details/90543361
+
+7. 基于模型的聚类
+https://blog.csdn.net/qq_16365849/article/details/50646679
+
+8. 可视化DBSCAN
+https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+

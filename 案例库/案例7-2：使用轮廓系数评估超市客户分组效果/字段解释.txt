@@ -1,0 +1,5 @@
+CustomerID: 客户ID
+Genre: 性别
+Age: 年龄
+Annual Income (k$): 年收入（单位是K美元）
+Spending Score (1-100): 消费指数（范围在1-100之间）

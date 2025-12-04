@@ -1,0 +1,10 @@
+carat：钻石重量：克拉。1克拉=0.2克=200毫克
+cut：钻石切工等级。有Fair, Good, Very Good, Premium, Ideal五个值。
+color：钻石颜色等级。它的值从J (最差) to D (最好)
+clarity：钻石净度。它的值为I1 (最差), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (最好)其中一个。
+depth：深度比率，计算公式为 = z / mean(x, y)
+table：钻石顶部相对于最宽点的宽度	
+x：钻石长度
+y：钻石宽度
+z：钻石深度
+price：钻石价格（美元）

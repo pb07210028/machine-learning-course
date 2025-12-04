@@ -1,0 +1,44 @@
+1. 回归场景
+https://blog.csdn.net/liulingyuan6/article/details/53637764
+
+1. 梯度下降法直观理解
+https://zhuanlan.zhihu.com/p/61119205
+
+2. 泛化能力定义
+https://baike.baidu.com/item/%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B/3323240
+
+3. 泛化能力解释
+https://zhuanlan.zhihu.com/p/59673364
+
+4. 欠拟合定义
+https://baike.baidu.com/item/%E6%AC%A0%E6%8B%9F%E5%90%88/22692155
+
+5. 欠拟合解决方法
+https://blog.csdn.net/willduan1/article/details/53070777
+
+6. 过拟合定义
+https://zhuanlan.zhihu.com/p/72038532
+
+7. 欠拟合过拟合出现原因以及解决方法
+https://blog.csdn.net/weixin_41882890/article/details/107008400
+
+8. 偏差与方差
+https://zhuanlan.zhihu.com/p/38853908
+
+9. 方差与偏差与k-折交叉验证
+https://blog.csdn.net/Crafts_Neo/article/details/90268784
+
+10. 正则化概念
+https://zhuanlan.zhihu.com/p/67931198
+https://www.cnblogs.com/zingp/p/10375691.html
+
+11. 岭回归
+https://zhuanlan.zhihu.com/p/67931198
+https://machinelearningmastery.com/ridge-regression-with-python/
+https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/
+
+12. LASSO回归
+https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/
+
+
+

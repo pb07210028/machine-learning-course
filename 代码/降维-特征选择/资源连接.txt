@@ -1,0 +1,9 @@
+1. 特征选择
+https://www.cnblogs.com/dyl222/p/11055756.html
+
+
+2. 过滤法
+https://www.cnblogs.com/zhange000/articles/10750489.html
+
+3. 
+

@@ -1,0 +1,45 @@
+1. 线性降维与非线性降维
+https://blog.csdn.net/ma416539432/article/details/53286028
+
+2. PCA优缺点
+https://www.cnblogs.com/lsm-boke/p/11760224.html
+
+3. PCA缺点
+https://blog.csdn.net/Y_hero/article/details/88797908
+
+4. pca和kpca介绍
+https://blog.csdn.net/zjuPeco/article/details/77510981
+
+5. PCA与Kernel PCA介绍与对比
+https://blog.csdn.net/qq_35509823/article/details/81979708
+
+6. LDA
+
+
+7. 流形学习
+https://www.cnblogs.com/jiangxinyang/p/9314256.html
+
+8. LLE步骤
+https://www.cnblogs.com/xbinworld/archive/2012/07/09/LLE.html
+
+9. PCA图解
+https://plotly.com/python/pca-visualization/
+
+10. PCA体验
+https://setosa.io/ev/principal-component-analysis/
+
+11. PCA计算步骤
+https://blog.csdn.net/grllery/article/details/89422994
+
+12. 累积方差贡献率
+https://www.zhihu.com/question/270768672?sort=created
+
+13. LDA官方资料
+https://sebastianraschka.com/Articles/2014_python_lda.html
+
+
+14. LDA优缺点
+http://blog.sina.com.cn/s/blog_7423cd260102we2z.html
+
+
+

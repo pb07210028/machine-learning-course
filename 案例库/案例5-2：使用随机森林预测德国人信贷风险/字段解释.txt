@@ -1,0 +1,11 @@
+NO.：数据序号
+Age：数值类型；年龄
+Sex：字符串类型；性别；有2个值，分别为male（男性）和female（女性）
+Job：数值类型；工作状态；有4个值，分别为0、1、2、3；0：unskilled and non-resident（无特长且非本地居民），1：unskilled and resident（无特长且是本地居民），2：skilled（有特长），3：highly skilled（技艺高超）
+Housing：字符串类型；有3个值，分别为own（有房子），rent（租房子），free（自己没房子也不租房，比如政府的救济房、比如住在别人家里）
+Saving accounts：字符串类型；活期储蓄账户存款多少（有固定利率）；有4个值，分别是little（几乎没有），moderate（中等），rich（富有），quite rich（非常富有）；如果有缺失数据，很大可能是这个人没有银行账户
+Checking account：字符串类型；普通支票账户存款多少（一般无息）；有3个值，分别是little（几乎没有），moderate（中等），rich（富有）；如果有缺失数据，很大可能是这个人没有银行账户
+Credit amount：数值类型；信贷额度（单位DM，即马克）
+Duration：数值类型；信贷时间（单位月）
+Purpose：字符串类型；贷款目的；有8个值，分别是car（买车），furniture/equipment（家具/装备），radio/TV（收音机/电视），domestic appliances（家用电器），repairs（维修），education（教育），business（做生意），vacation/others（度假/其它）
+Risk：字符串类型；信用风险等级；有2个值，分别为good（无风险），bad（有风险）
